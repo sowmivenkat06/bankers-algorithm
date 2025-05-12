@@ -11,7 +11,7 @@ Clean and responsive UI with modern design.
 
 User-friendly instructions and result formatting.
 
-![m](bankers.jpg)
+![m](bankers.png)
 
 
 
